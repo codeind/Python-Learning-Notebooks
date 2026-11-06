@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+!cardiogood_fitness_analysis/data/*.csv
